@@ -1,0 +1,5 @@
+### JSfuck encoder
+
+```
+convertToJsfuck("hi");
+```
